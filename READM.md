@@ -3,5 +3,5 @@
 >Status do Projeto: Em andammento.
 
 ```
-run on console
+run js program
 ```
